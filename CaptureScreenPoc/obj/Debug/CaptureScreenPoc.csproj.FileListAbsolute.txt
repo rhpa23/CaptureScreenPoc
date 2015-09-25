@@ -1,0 +1,13 @@
+C:\Users\rudolf\documents\visual studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\bin\Debug\CaptureScreenPoc.exe.config
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\obj\Debug\Interop.TCPILib.dll
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\obj\Debug\CaptureScreenPoc.csproj.ResolveComReference.cache
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\bin\Debug\CaptureScreenPoc.exe
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\bin\Debug\CaptureScreenPoc.pdb
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\bin\Debug\SharpAvi.dll
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\bin\Debug\SharpAvi.xml
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\obj\Debug\CaptureScreenPoc.csprojResolveAssemblyReference.cache
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\obj\Debug\CaptureScreenPoc.Form1.resources
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\obj\Debug\CaptureScreenPoc.Properties.Resources.resources
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\obj\Debug\CaptureScreenPoc.csproj.GenerateResource.Cache
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\obj\Debug\CaptureScreenPoc.exe
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\CaptureScreenPoc\CaptureScreenPoc\obj\Debug\CaptureScreenPoc.pdb
